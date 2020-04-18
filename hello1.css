@@ -1,0 +1,30 @@
+greeting
+{
+    color: red;
+    font-size: 30pt;
+    display: block;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
+extention
+{
+    color: black;
+    font-size: 25pt;
+    display: block;
+}
+.ans extention
+{
+color: blue;
+    font-size:20pt;
+    display: block;
+    margin-left: 200px;
+
+}
+.ans question
+{
+    margin-left: 200px;
+    font-size: 30pt;
+}
+
+
